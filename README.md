@@ -1,3 +1,7 @@
+# Predicting-House-Prices
+This project is based on the machine learning
+
+
 Fair House Price Prediction
 This project focuses on developing a predictive model for house prices, emphasizing fairness and accuracy. It aims to ensure equitable predictions by addressing bias and ensuring the model considers feature importance in a transparent way.
 
@@ -36,5 +40,3 @@ This version gives the essential information while being short and to the point.
 
 
 
-# Predicting-House-Prices
-This project is based on the machine learning
